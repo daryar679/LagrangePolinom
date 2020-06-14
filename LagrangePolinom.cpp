@@ -67,4 +67,5 @@ int main()
 	}
 	result << lagrangePol(p, a, N, x, y);
 	cout << "IT'S OKAY" << endl;
+	return 0;
 }
